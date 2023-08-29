@@ -1,0 +1,11 @@
+.icon {
+    cursor: pointer;
+}
+
+.checksize {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    border-radius: 50px;
+}
+
