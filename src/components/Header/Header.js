@@ -1,11 +1,11 @@
 import './Header.css';
 
-const Header = () => {
+const Header = ({title}) => {
     return (
 
         <div className='row'>
             <div className='col-md-12'>
-                <h4>Todo Input</h4>
+                <h4>{title}</h4>
             </div>
         </div>
 

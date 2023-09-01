@@ -9,3 +9,12 @@
     border-radius: 50px;
 }
 
+.active {
+    color: black;
+    text-decoration: none;
+}
+
+.passive {
+    color: red;
+    text-decoration: line-through;
+}

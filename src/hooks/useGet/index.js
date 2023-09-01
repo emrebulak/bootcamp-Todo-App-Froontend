@@ -1,0 +1,1 @@
+export { default } from './useGet.js';
