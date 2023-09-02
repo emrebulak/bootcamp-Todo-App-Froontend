@@ -12,7 +12,7 @@ Bu projeyi çalıştırmak için aşağıdaki gereksinimlere ihtiyacınız olaca
 
 - **Node.js** - Proje için JavaScript çalıştırma ortamı.
 - **npm** veya **Yarn** - Paket yöneticisi.
-- **Java** - Java API'yi çalıştırmak için Java SE (Standard Edition) 8 veya üzeri gereklidir.
+- **Java** - Java API'yi çalıştırmak için Java SB gereklidir.
 
 ### Kurulum
 
