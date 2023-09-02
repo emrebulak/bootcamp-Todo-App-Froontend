@@ -17,7 +17,6 @@ function App() {
 
 
   useEffect(() => {
-
     axios.get(`${process.env.REACT_APP_API_URL}/list`).then(value => {
       setData(value.data);
       setLoading(false);
